@@ -24,6 +24,7 @@
 <div> 
   <a href = "mailto:adriana.asgama@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adrianagama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="#" alt="Instagram"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gamadri/"/></a>
 </div>
 
 ![Snake animation](https://github.com/Adriana/Adriana/blob/output/github-contribution-grid-snake.svg)
