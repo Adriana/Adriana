@@ -1,8 +1,10 @@
 ## Olá!! <a href="https://fontmeme.com/pt/fontes-de-assinatura/"><img src="https://fontmeme.com/permalink/220218/61416deee4ad4c54e8a791eaac8a688f.png" alt="fontes-de-assinatura" border="0"></a>👋
 
-💻 Estudante de Gestão e Sistemas de Informação - IPLUSO .
-🥷 Web Development - SmartNinja/PT.
-💻 Programador Informático - IEFP.
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudante **Gestão em Sistemas de Informação** no <a href="https://www.ipluso.pt/">IPLUSO</a>.
+- 💻 &nbsp; Programador Informático - IEFP.
+- 🥷 &nbsp; Web Development - SmartNinja/PT.
+
 
 
 <div align="center">
