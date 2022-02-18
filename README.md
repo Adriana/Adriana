@@ -1,5 +1,4 @@
-### Olá! Eu sou Adriana Gama! 👋
-
+## Olá! Eu sou Adriana Gama! 👋
 
 💻 Estudante de Gestão e Sistemas de Informação - IPLUSO .
 
