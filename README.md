@@ -22,7 +22,7 @@
  
 <p align="left">
   <a href="mailton:adriana.asgama@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=adriana.asgama@gmail.com" target="_blank" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=whitee" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adrianagama/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianagama/" /></a> 
 </p>  
