@@ -1,7 +1,7 @@
 ### Olá! Eu sou Adriana Gama! 👋
 
 
-💻 Estudante de Desenvolvimento de Software Full Stack da Cubos Academy.
+💻 Estudante de Gestão e Sistemas de Informação - IPLUSO .
 
 <div align="center">
   <a href="https://github.com/adriana">
