@@ -1,6 +1,9 @@
 ## Olá!! <a href="https://fontmeme.com/pt/fontes-de-assinatura/"><img src="https://fontmeme.com/permalink/220218/61416deee4ad4c54e8a791eaac8a688f.png" alt="fontes-de-assinatura" border="0"></a>👋
 
 💻 Estudante de Gestão e Sistemas de Informação - IPLUSO .
+🥷 Web Development - SmartNinja/PT.
+💻 Programador Informático - IEFP.
+
 
 <div align="center">
   <a href="https://github.com/adriana">
