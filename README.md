@@ -25,7 +25,7 @@
     <img align="right" alt="Pc-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 </div>
   
-  ##
+  ###
  
 <p align="left">
    <a href = "mailto:adriana.asgama@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
