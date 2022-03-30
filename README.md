@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo skills em programação.
 - 🎓 &nbsp; Estudante **Gestão em Sistemas de Informação** no <a href="https://www.ipluso.pt/">IPLUSO</a>.
-- 💻 &nbsp; **Programador Informático** - <a href="https://www.iefp.pt/home">Iefp</a>.
+- 💻 &nbsp; Estudante **Programador Informático** - <a href="https://www.iefp.pt/home">Iefp</a>.
 - 🥷 &nbsp; **Web Development** - <a href="https://www.smartninja.pt/">SmartNinja/PT</a>.
 
 
