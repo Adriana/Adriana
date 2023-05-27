@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo skills em programação.
 - 💻 &nbsp;  *Jr IT Developer ** **at ManpowerGroup PT** - <a href="https://www.iefp.pt/home">Iefp</a>.
-- 🥷 &nbsp; **Web Development** - <a href="https://www.smartninja.pt/">SmartNinja/PT</a>.
+- 🥷 &nbsp; **Web Development** - </a>.
 
 
 
