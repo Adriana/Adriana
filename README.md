@@ -1,8 +1,8 @@
 ## Olá!! <a href="https://fontmeme.com/pt/fontes-de-assinatura/"><img src="https://fontmeme.com/permalink/220218/61416deee4ad4c54e8a791eaac8a688f.png" alt="fontes-de-assinatura" border="0"></a>👋
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo skills em programação.
-- 💻 &nbsp;  *Jr IT Developer ** **at ManpowerGroup PT** - <a href="https://www.iefp.pt/home">Iefp</a>.
-- 🥷 &nbsp; **Web Development** - </a>.
+- 💻 &nbsp;  *Dev. Technician ** **at ManpowerGroup PT** - <a href="https://www.iefp.pt/home">Iefp</a>.
+- 🥷 &nbsp; 
 
 
 
